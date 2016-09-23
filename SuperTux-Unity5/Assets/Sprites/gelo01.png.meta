@@ -29,7 +29,7 @@ TextureImporter:
   textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -49,12 +49,13 @@ TextureImporter:
   textureType: 5
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites: []
     outline:
-    - - {x: 48, y: 128}
-      - {x: 96, y: 63.999996}
-      - {x: 47.999996, y: 0}
-      - {x: 0, y: 64}
+    - - {x: 0, y: 64}
+      - {x: 48, y: -0.0000038146973}
+      - {x: -0.0000038146973, y: -64}
+      - {x: -48, y: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

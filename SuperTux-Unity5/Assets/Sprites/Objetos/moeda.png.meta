@@ -37,7 +37,7 @@ TextureImporter:
   textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -57,8 +57,10 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: moeda_0
+    - serializedVersion: 2
+      name: moeda_0
       rect:
         serializedVersion: 2
         x: 0
@@ -68,18 +70,9 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 27, y: 32}
-        - {x: 8, y: 32}
-        - {x: 1, y: 25}
-        - {x: 1, y: 8}
-        - {x: 2, y: 3}
-        - {x: 6, y: 0}
-        - {x: 27, y: 0}
-        - {x: 31, y: 3}
-        - {x: 32, y: 9}
-        - {x: 32, y: 27}
-    - name: moeda_1
+      outline: []
+    - serializedVersion: 2
+      name: moeda_1
       rect:
         serializedVersion: 2
         x: 32
@@ -89,12 +82,9 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 11, y: 32}
-        - {x: 11, y: 0}
-        - {x: 22, y: 0}
-        - {x: 22, y: 32}
-    - name: moeda_2
+      outline: []
+    - serializedVersion: 2
+      name: moeda_2
       rect:
         serializedVersion: 2
         x: 64
@@ -104,15 +94,9 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 5, y: 32}
-        - {x: 4, y: 31}
-        - {x: 4, y: 0}
-        - {x: 28, y: 0}
-        - {x: 29, y: 3}
-        - {x: 29, y: 31}
-        - {x: 28, y: 32}
-    - name: moeda_3
+      outline: []
+    - serializedVersion: 2
+      name: moeda_3
       rect:
         serializedVersion: 2
         x: 96
@@ -122,16 +106,9 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 6, y: 32}
-        - {x: 0, y: 27}
-        - {x: 0, y: 4}
-        - {x: 5, y: 0}
-        - {x: 28, y: 0}
-        - {x: 32, y: 5}
-        - {x: 32, y: 28}
-        - {x: 27, y: 32}
-    - name: moeda_4
+      outline: []
+    - serializedVersion: 2
+      name: moeda_4
       rect:
         serializedVersion: 2
         x: 128
@@ -141,13 +118,9 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 1, y: 32}
-        - {x: 1, y: 5}
-        - {x: 2, y: 0}
-        - {x: 31, y: 0}
-        - {x: 31, y: 32}
-    - name: moeda_5
+      outline: []
+    - serializedVersion: 2
+      name: moeda_5
       rect:
         serializedVersion: 2
         x: 160
@@ -157,14 +130,9 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 12, y: 32}
-        - {x: 12, y: 0}
-        - {x: 20, y: 0}
-        - {x: 21, y: 1}
-        - {x: 21, y: 30}
-        - {x: 19, y: 32}
-    - name: moeda_6
+      outline: []
+    - serializedVersion: 2
+      name: moeda_6
       rect:
         serializedVersion: 2
         x: 192
@@ -174,15 +142,9 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 25, y: 32}
-        - {x: 7, y: 32}
-        - {x: 3, y: 28}
-        - {x: 3, y: 1}
-        - {x: 6, y: 0}
-        - {x: 29, y: 0}
-        - {x: 29, y: 30}
-    - name: moeda_7
+      outline: []
+    - serializedVersion: 2
+      name: moeda_7
       rect:
         serializedVersion: 2
         x: 224
@@ -192,13 +154,7 @@ TextureImporter:
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0, y: 32}
-        - {x: 0, y: 2}
-        - {x: 1, y: 0}
-        - {x: 32, y: 0}
-        - {x: 32, y: 31}
-        - {x: 29, y: 32}
+      outline: []
     outline: []
   spritePackingTag: 
   userData: 
