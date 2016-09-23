@@ -52,7 +52,9 @@ public class Tiled : MonoBehaviour {
 	}
 
 	void Awake () {
+		#if UNITY_EDITOR
 		calcVetores();
+		#endif
 
 		Vector4 borda = this.borda;
 		borda.x /= sprite.bounds.size.x;
